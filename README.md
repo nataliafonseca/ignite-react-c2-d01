@@ -2,7 +2,7 @@
 
 _( Ignite | ReactJS | Capítulo II | Desafio 01 )_
 
-Desafio 01 do capítulo II da trilha ReactJS do Ignite, da rocketseat.
+Desafio 01 do capítulo II da trilha ReactJS do bootcamp Ignite, da Rocketseat.
 
 ## O desafio: Criar um hook de carrinho de compras
 
